@@ -1,3 +1,7 @@
+## Hi, I am Chandru
+Data Scientist | Data Analyst | ML Engineer
+---
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
