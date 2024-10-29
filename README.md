@@ -39,7 +39,7 @@ Data Scientist | Data Analyst | ML Engineer
             <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/chandru-g24">
             <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 5px;" target="_blank" href="https://github.com/chandru-g24/Portfolio/blob/main/Resume.pdf">
+        <a style="margin-left: 5px;" target="_blank" href="https://chandru-ganeshan-portfolio.vercel.app">
             <img src="https://img.icons8.com/plasticine/40/000000/resume.png" ></a>
     </div>
 </p>
