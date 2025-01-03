@@ -74,10 +74,10 @@ I’m always excited to connect with like-minded people. Let's collaborate, shar
 
 <div align="center">
     <a href="https://github.com/itzmechandruganeshan">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandru-g24&show_icons=true&theme=radical&count_private=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itzmechandruganeshan&show_icons=true&theme=radical&count_private=true" />
     </a>
     <a href="https://github.com/itzmechandruganeshan">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandru-g24&layout=compact&langs_count=8&theme=radical" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmechandruganeshan&layout=compact&langs_count=8&theme=radical" />
     </a>
 </div>
 
