@@ -1,13 +1,13 @@
 # Hi, I’m Chandru 👋  
-**🚀 Data Scientist | Data Analyst | ML Engineer**
+**🚀 ML Engineer | Data Scientist | Data Analyst**
 
-Passionate about solving real-world problems using Data Science, Machine Learning, and Artificial Intelligence. I specialize in building predictive models, data visualization, and deploying scalable solutions. Let's collaborate and make something amazing! 🌟
+Passionate about solving real-world problems using Data Science, Machine Learning, and Artificial Intelligence. I specialize in building predictive models, data visualization, and deploying scalable solutions. Let's collaborate and create something amazing! 🌟
 
 ---
 
 ## 🛠️ **Languages & Tools**
 
-### Languages  
+### Programming and Query Languages  
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-000?&logo=Neo4j)
@@ -20,6 +20,11 @@ Passionate about solving real-world problems using Data Science, Machine Learnin
 ![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
 
+### Frameworks for Agentic Applications  
+![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=LangChain)
+![AutoGen](https://img.shields.io/badge/-AutoGen-000?&logo=AutoGen)
+![CrewAI](https://img.shields.io/badge/-CrewAI-000?&logo=CrewAI)
+
 ---
 
 ## 📚 **Data Science Projects**
@@ -27,10 +32,10 @@ Passionate about solving real-world problems using Data Science, Machine Learnin
 Here are some exciting projects where I applied my skills:
 
 - [😀 **Emotion Prediction**](https://github.com/itzmechandruganeshan/Emotion_Prediction)  
-  *Using facial expressions to classify emotions.*
-  
+  *Design and development of a deep learning architecture to predict forthcoming emotions based on facial expressions.* 
+
 - [🧬 **Pathogen Detector**](https://github.com/itzmechandruganeshan/Pathogen-detector)  
-  *Leveraging ML to detect harmful pathogens.*
+  *A machine learning-powered application for automating and streamlining pathogen analysis in laboratories.*
 
 ---
 
@@ -45,16 +50,16 @@ I love exploring new ideas and experimenting with them. Check out my personal pr
   *Deep learning for early Alzheimer detection.*
 
 - [🔬 **Rextractor**](https://github.com/itzmechandruganeshan/REXTRACTOR)  
-  *A tool for automated information extraction.*
+  *Light weight software for Extracting raw data from rt-PCT run files (.rex)*
 
 - [🧬 **PyMLRS**](https://github.com/itzmechandruganeshan/PyMLRS)  
-  *A Python-based lightweight ML recommendation system.*
+  *A Python library for processing and interpreting DNA High-Resolution Melt and Amplification Curves for the Meningoencephalitis Panel*
 
 ---
 
 ## 🌐 **Connect with Me**
 
-I’m always excited to connect with like-minded people. Let's collaborate, share ideas, and grow together!  
+I’m always excited to connect with like-minded individuals. Let's collaborate, share ideas, and grow together!  
 
 <div align="center">
     <a href="https://www.linkedin.com/in/chandru-g24/">
@@ -88,7 +93,3 @@ I’m always excited to connect with like-minded people. Let's collaborate, shar
 - Contributed to multiple open-source projects.  
 - Developed state-of-the-art models for healthcare and AI research.  
 - Consistently improving and sharing knowledge through collaborations.  
-
----
-
-Let me know if you'd like to tweak or add anything else! 🚀
