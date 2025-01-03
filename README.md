@@ -90,6 +90,6 @@ I’m always excited to connect with like-minded individuals. Let's collaborate,
 
 ## 🏆 **Achievements**
 
-- Contributed to multiple open-source projects.  
+- Contributed to open-source project.  
 - Developed state-of-the-art models for healthcare and AI research.  
 - Consistently improving and sharing knowledge through collaborations.  
